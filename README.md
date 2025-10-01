@@ -84,3 +84,7 @@ Actionable insights or strategic decision.
 ## References
 - [Link1](#)
 - [Link2](#)
+
+
+
+🔗 https://itsajinkya.vercel.app | 📫 https://www.linkedin.com/in/ajinkya2004
