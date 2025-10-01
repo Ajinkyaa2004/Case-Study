@@ -1,9 +1,6 @@
 # 🚀 30-Day Product Management Case Study Series
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ajinkyadhumal/product-management-case-studies?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/ajinkyadhumal/product-management-case-studies?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/ajinkyadhumal/product-management-case-studies?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/ajinkyadhumal/product-management-case-studies?style=flat-square)
+
 
 ---
 
