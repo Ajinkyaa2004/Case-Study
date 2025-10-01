@@ -14,15 +14,15 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 ## 📅 30-Day Plan & Interactive Links
 
 ### **Week 1 – Revenue Models & Pricing** 🔵
-| Date     | Company              | Topic                                          | Link                                                                |
-|----------|----------------------|------------------------------------------------|-------------------------------------------------------------------- |
-| 1        | Netflix              | Ad-Supported vs Premium Plans                  | [Notion Link](Case-Studies/2025-10-01_netflix-ad-vs-premium.md)      |
-| 2        | Spotify              | Freemium vs Subscription-First                 | [Notion Link](Case-Studies/2025-10-02_spotify-freemium.md)           |
-| 3        | Apple                | iPhone SE Pricing in Emerging Markets          | [Notion Link](Case-Studies/2025-10-03_apple-iphone-se-pricing.md)    |
-| 4        | Amazon Prime         | Bundled vs Standalone Services                 | [Notion Link](Case-Studies/2025-10-04_amazon-prime-bundling.md)      |
-| 5        | Disney+ Hotstar      | Sports Rights & Pricing                        | [Notion Link](Case-Studies/2025-10-05_hotstar-sports-pricing.md)     |
-| 6        | Tesla                | EV Pricing Strategy in India                   | [Notion Link](Case-Studies/2025-10-06_tesla-ev-pricing.md)           |
-| 7        | Swiggy One           | Loss Leader vs Profit Model                    | [Notion Link](Case-Studies/2025-10-07_swiggy-one-profit.md)          |
+| Date     | Company              | Topic                                          | Link                                                                                        |
+|----------|----------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 1        | Netflix              | Ad-Supported vs Premium Plans                  | [Notion Link](https://www.notion.so/27e5b325b2ae80d989b1dd9d938748f3?source=copy_link)      |
+| 2        | Spotify              | Freemium vs Subscription-First                 | [Notion Link](Case-Studies/2025-10-02_spotify-freemium.md)                                  |
+| 3        | Apple                | iPhone SE Pricing in Emerging Markets          | [Notion Link](Case-Studies/2025-10-03_apple-iphone-se-pricing.md)                           |
+| 4        | Amazon Prime         | Bundled vs Standalone Services                 | [Notion Link](Case-Studies/2025-10-04_amazon-prime-bundling.md)                             |
+| 5        | Disney+ Hotstar      | Sports Rights & Pricing                        | [Notion Link](Case-Studies/2025-10-05_hotstar-sports-pricing.md)                            |
+| 6        | Tesla                | EV Pricing Strategy in India                   | [Notion Link](Case-Studies/2025-10-06_tesla-ev-pricing.md)                                  |
+| 7        | Swiggy One           | Loss Leader vs Profit Model                    | [Notion Link](Case-Studies/2025-10-07_swiggy-one-profit.md)                                 |
 
 ### **Week 2 – Unit Economics & Profitability** 🟢
 | Day | Company | Topic | Link |
