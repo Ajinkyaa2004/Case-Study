@@ -17,7 +17,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |   Date   |Company      | Topic                                                                | Link                                                                          |
 |----------|------------ |----------------------------------------------------------------------|-------------------------------------------------------------------------------|
 |02-10-2025| Netflix     | Should Netflix double down on ad-supported plans or premium pricing? |https://www.notion.so/Netflix-27e5b325b2ae80d989b1dd9d938748f3?source=copy_link|
-|          |             |                                                                      |                                                                               |
+|03-10-2025| Spotify     | Is freemium sustainable, or should shift to subscription-first?      |                                                                               |
 |          |             |                                                                      |                                                                               |
 |          |             |                                                                      |                                                                               |
 |          |             |                                                                      |                                                                               |
