@@ -20,7 +20,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |03-10-2025| Spotify       | Is freemium sustainable, or should shift to subscription-first?       |https://www.notion.so/Spotify-2825b325b2ae8062911ad243ebedfd28?source=copy_link |
 |06-10-2025| Apple         | Pricing strategy for iphone SE in emerging markets                    |https://www.notion.so/Apple-2845b325b2ae80e38d00fc3be08406b3?source=copy_link   |
 |16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |                                                                                |
-|          |               |                                                                       |                                                                                |
+|27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |                                                                                |
 |          |               |                                                                       |                                                                                |
 |          |               |                                                                       |                                                                                |
 
