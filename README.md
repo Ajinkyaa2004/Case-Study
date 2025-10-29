@@ -35,7 +35,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |          |                      |                                                             |                                                                                |
 |          |                      |                                                             |                                                                                |
 |          |                      |                                                             |                                                                                |
-|          |                      |                                                             |                                                                                |
+|          |                      |                                                                |                                                                                |
 
 
 ### **Week 3 – Growth, Expansion & Diversification** 🟡
