@@ -22,7 +22,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |                                                                                |
 |27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |                                                                                |
 |28-10-2025| Tesla         | Pricing strategy for EVs in India (luxury vs. mass market)            |                                                                                |
-|          |               |                                                                       |                                                                                |
+|03-10-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |                                                                                |
 
 
 
