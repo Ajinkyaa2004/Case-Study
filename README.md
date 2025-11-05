@@ -14,15 +14,15 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 ## 📅 30-Day Plan & Interactive Links
 
 ### **Week 1 – Revenue Models & Pricing** 🔵
-|   Date   |Company        | Topic                                                                 | Link                                                                           |
-|----------|---------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------- |
-|02-10-2025| Netflix       | Should Netflix double down on ad-supported plans or premium pricing?  |https://www.notion.so/Netflix-27e5b325b2ae80d989b1dd9d938748f3?source=copy_link |
-|03-10-2025| Spotify       | Is freemium sustainable, or should shift to subscription-first?       |https://www.notion.so/Spotify-2825b325b2ae8062911ad243ebedfd28?source=copy_link |
-|06-10-2025| Apple         | Pricing strategy for iphone SE in emerging markets                    |https://www.notion.so/Apple-2845b325b2ae80e38d00fc3be08406b3?source=copy_link   |
-|16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |                                                                                |
-|27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |                                                                                |
-|28-10-2025| Tesla         | Pricing strategy for EVs in India (luxury vs. mass market)            |                                                                                |
-|03-10-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |                                                                                |
+|   Date   |Company        | Topic                                                                 | Link                                                                               |
+|----------|---------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------- |
+|02-10-2025| Netflix       | Should Netflix double down on ad-supported plans or premium pricing?  |https://www.notion.so/Netflix-27e5b325b2ae80d989b1dd9d938748f3?source=copy_link     |
+|03-10-2025| Spotify       | Is freemium sustainable, or should shift to subscription-first?       |https://www.notion.so/Spotify-2825b325b2ae8062911ad243ebedfd28?source=copy_link     |
+|06-10-2025| Apple         | Pricing strategy for iphone SE in emerging markets                    |https://www.notion.so/Apple-2845b325b2ae80e38d00fc3be08406b3?source=copy_link       |
+|16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |https://www.notion.so/Amazon-Prime-2a25b325b2ae80ae9080ced20733befc?source=copy_link|
+|27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |                                                                                    |
+|28-10-2025| Tesla         | Pricing strategy for EVs in India (luxury vs. mass market)            |                                                                                    |
+|03-10-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |                                                                                    |
 
 
 
