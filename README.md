@@ -22,7 +22,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |https://www.notion.so/Amazon-Prime-2a25b325b2ae80ae9080ced20733befc?source=copy_link    |
 |27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |https://www.notion.so/Disney-Hotstar-2a25b325b2ae804fa19ade29d09cb0f9?source=copy_link  |
 |28-10-2025| Tesla         | Pricing strategy for EVs in India (luxury vs. mass market)            |https://www.notion.so/Tesla-2a25b325b2ae8035b566f6f77bcb028b?source=copy_link           |
-|03-10-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |                                                                                        |
+|03-10-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |https://www.notion.so/Swiggy-2a25b325b2ae801fbba7c071ef7cf4b1?source=copy_link          |
 
 
 
