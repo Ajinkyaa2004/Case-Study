@@ -30,12 +30,12 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |   Date   |Company               | Topic                                                       | Link                                                                                      |
 |----------|----------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |06-11-2025| Uber                 | Can ride-hailing ever be profitable without heavy discounts?|                                                                                           |
+|06-11-2025| Zomato               | Balancing food delivery commissions-restaurant partnerships.|                                                                                           |
 |          |                      |                                                             |                                                                                           |
 |          |                      |                                                             |                                                                                           |
 |          |                      |                                                             |                                                                                           |
 |          |                      |                                                             |                                                                                           |
 |          |                      |                                                             |                                                                                           |
-|          |                      |                                                                |                                                                                        |
 
 
 ### **Week 3 – Growth, Expansion & Diversification** 🟡
