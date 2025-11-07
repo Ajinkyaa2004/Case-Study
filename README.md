@@ -27,15 +27,15 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 
 
 ### **Week 2 – Unit Economics & Profitability** 🟢
-|   Date   |Company               | Topic                                                       | Link                                                                                      |
-|----------|----------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|06-11-2025| Uber                 | Can ride-hailing ever be profitable without heavy discounts?|https://www.notion.so/Uber-2a35b325b2ae806990f2c7615e8bc1db?source=copy_link               |
-|06-11-2025| Zomato               | Balancing food delivery commissions-restaurant partnerships |https://www.notion.so/Zomato-2a35b325b2ae80228333ca9ee2f05541?source=copy_link             |
-|          |                      |                                                             |                                                                                           |
-|          |                      |                                                             |                                                                                           |
-|          |                      |                                                             |                                                                                           |
-|          |                      |                                                             |                                                                                           |
-|          |                      |                                                             |                                                                                           |
+|   Date   |Company        | Topic                                                       | Link                                                                                             |
+|----------|---------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|06-11-2025| Uber          | Can ride-hailing ever be profitable without heavy discounts?|https://www.notion.so/Uber-2a35b325b2ae806990f2c7615e8bc1db?source=copy_link                      |
+|06-11-2025| Zomato        | Balancing food delivery commissions-restaurant partnerships |https://www.notion.so/Zomato-2a35b325b2ae80228333ca9ee2f05541?source=copy_link                    |
+|          |               |                                                             |                                                                                                  |
+|          |               |                                                             |                                                                                                  |
+|          |               |                                                             |                                                                                                  |
+|          |               |                                                             |                                                                                                  |
+|          |               |                                                             |                                                                                                  |
 
 
 ### **Week 3 – Growth, Expansion & Diversification** 🟡
