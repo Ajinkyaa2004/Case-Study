@@ -31,7 +31,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |----------|---------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 |06-11-2025| Uber          | Can ride-hailing ever be profitable without heavy discounts?          |https://www.notion.so/Uber-2a35b325b2ae806990f2c7615e8bc1db?source=copy_link            |
 |06-11-2025| Zomato        | Balancing food delivery commissions-restaurant partnerships           |https://www.notion.so/Zomato-2a35b325b2ae80228333ca9ee2f05541?source=copy_link          |
-|07-11-2025| OYO           | Asset-heavy / asset-light model which is financially stronger?        |                                                                                        |
+|07-11-2025| OYO           | Asset-heavy / asset-light model which is financially stronger?        |https://www.notion.so/OYO-2a45b325b2ae80fb8de3fe50ffa13ed7?source=copy_link             |
 |          |               |                                                                       |                                                                                        |
 |          |               |                                                                       |                                                                                        |
 |          |               |                                                                       |                                                                                        |
