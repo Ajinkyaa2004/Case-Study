@@ -62,30 +62,21 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 
 ---
 
-## 📝 Case Study Structure
 
-Each case study follows a **consistent, easy-to-read format**:
+## 🤝 Connect With Me  
 
-```markdown
-# Case Study: <Company Name> – <Topic>
-**Date:** YYYY-MM-DD  
-**Category:** <Focus Area>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajinkya842004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhumalajinkya2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ajinkyaa2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://itsajinkya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</p>
 
-## Problem Statement
-Short description of the problem or decision.
-
-## Analysis
-- Key metrics, strategies, trade-offs.
-- Competitor and market insights.
-- Pros & cons of approaches.
-
-## Recommendation
-Actionable insights or strategic decision.
-
-## References
-- [Link1](#)
-- [Link2](#)
-
-
-
-🔗 https://itsajinkya.vercel.app | 📫 https://www.linkedin.com/in/ajinkya2004
