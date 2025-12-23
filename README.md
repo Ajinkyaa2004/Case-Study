@@ -33,8 +33,8 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |06-11-2025| Zomato        | Balancing food delivery commissions-restaurant partnerships           |https://www.notion.so/Zomato-2a35b325b2ae80228333ca9ee2f05541?source=copy_link          |
 |07-11-2025| OYO           | Asset-heavy / asset-light model which is financially stronger?        |https://www.notion.so/OYO-2a45b325b2ae80fb8de3fe50ffa13ed7?source=copy_link             |
 |07-11-2025| BYJU’s        | Growth via acquisitions vs. focusing on sustainable profitability     |https://www.notion.so/BYJU-s-2a45b325b2ae800ca138e71497860478?source=copy_link          |
-|23-12-2025| Starbuck's    | Scaling in tier-2 cities while keeping margins                        |https://www.notion.so/Starbucks-India-2d25b325b2ae80f8b722ffec152c502f?source=copy_link |
-|          |               |                                                                       |                                                                                        |
+|23-12-2025| Starbuck's    | Scaling in tier-2 cities while keeping margins.                       |https://www.notion.so/Starbucks-India-2d25b325b2ae80f8b722ffec152c502f?source=copy_link |
+|23-12-2025| Flipkart      | Are heavy discounts during Big Billion Days financially viable ?      |https://www.notion.so/Flipkart-2d25b325b2ae8047b0d8ee66bcd55b7d?source=copy_link        |
 |          |               |                                                                       |                                                                                        |
 
 
