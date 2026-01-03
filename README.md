@@ -42,7 +42,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |   Date   |Company               | Topic                                                       | Link                                                                           |
 |----------|----------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------|
 |03-01-2026| Paytm                |Should Paytm focus on payments,lending, or wealth management?|https://www.notion.so/Paytm-2dd5b325b2ae80c1a48bde33d52352d5?source=copy_link   |
-|03-01-2026| Reliance Jio         |                                                             |                                                                                |
+|03-01-2026| Reliance Jio         |How bundling telecom + OTT + e-commerce creates a moat.      |                                                                                |
 |          |                      |                                                             |                                                                                |
 |          |                      |                                                             |                                                                                |
 |          |                      |                                                             |                                                                                |
