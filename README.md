@@ -7,7 +7,7 @@
 
 Welcome to my **30-Day Product Management Case Study Series** – a structured journey into **real-world business and product decisions**.  
 
-💡 **Goal:** Sharpen analytical thinking, business acumen, and product strategy skills.
+ **Goal:** Sharpen analytical thinking, business acumen, and product strategy skills.
 
 ---
 
