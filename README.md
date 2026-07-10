@@ -22,7 +22,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |16-10-2025| Amazon Prime  | Bundled pricing vs. standalone services (video, delivery, music)      |https://www.notion.so/Amazon-Prime-2a25b325b2ae80ae9080ced20733befc?source=copy_link    |
 |27-10-2025| Disney+Hotstar| How to balance sports rights costs with subscription pricing          |https://www.notion.so/Disney-Hotstar-2a25b325b2ae804fa19ade29d09cb0f9?source=copy_link  |
 |28-10-2025| Tesla         | Pricing strategy for EVs in India (luxury vs. mass market)            |https://www.notion.so/Tesla-2a25b325b2ae8035b566f6f77bcb028b?source=copy_link           |
-|03-11-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |https://www.notion.so/Swiggy-2a25b325b2ae801fbba7c071ef7cf4b1?source=copy_link          |
+|03-11-2025| Swiggy One    | Should it stay a loss leader or become profit-generating?             |https://www.notion.so/Swiggy-2a25b325b2ae801fbba7c071ef7cf4b1?source=copy_link          
 
 
 
@@ -34,8 +34,7 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |07-11-2025| OYO           | Asset-heavy / asset-light model which is financially stronger?        |https://www.notion.so/OYO-2a45b325b2ae80fb8de3fe50ffa13ed7?source=copy_link             |
 |07-11-2025| BYJU’s        | Growth via acquisitions vs. focusing on sustainable profitability     |https://www.notion.so/BYJU-s-2a45b325b2ae800ca138e71497860478?source=copy_link          |
 |23-12-2025| Starbuck's    | Scaling in tier-2 cities while keeping margins.                       |https://www.notion.so/Starbucks-India-2d25b325b2ae80f8b722ffec152c502f?source=copy_link |
-|23-12-2025| Flipkart      | Are heavy discounts during Big Billion Days financially viable ?      |https://www.notion.so/Flipkart-2d25b325b2ae8047b0d8ee66bcd55b7d?source=copy_link        |
-|          |               |                                                                       |                                                                                        |
+|23-12-2025| Flipkart      | Are heavy discounts during Big Billion Days financially viable ?      |https://www.notion.so/Flipkart-2d25b325b2ae8047b0d8ee66bcd55b7d?source=copy_link                                                                         
 
 
 ### **Week 3 – Growth, Expansion & Diversification** 🟡
@@ -44,23 +43,8 @@ Welcome to my **30-Day Product Management Case Study Series** – a structured j
 |03-01-2026| Paytm                |Should Paytm focus on payments,lending, or wealth management?    |https://www.notion.so/Paytm-2dd5b325b2ae80c1a48bde33d52352d5?source=copy_link       |
 |03-01-2026| Reliance Jio         |How bundling telecom + OTT + e-commerce creates a moat.          |https://www.notion.so/Reliance-Jio-2dd5b325b2ae804e8204db49cd2c6c2c?source=copy_link|
 |05-01-2026| Tata Neu             |Why is the “super app” struggling, and what business pivot works?|                                                                                    |
-|          |                      |                                                                 |                                                                                    |
-|          |                      |                                                                 |                                                                                    |
-|          |                      |                                                                 |                                                                                    |
-|          |                      |                                                                 |                                                                                    |
 
-### **Week 4 – Financial Trade-offs, Risk & Capital** 🔴
-|   Date   |Company               | Topic                                          | Link                                                                                        |
-|----------|----------------------|------------------------------------------------|---------------------------------------------------------------------------------------------|
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
-|          |                      |                                                |                                                                                             |
 
----
 
 
 ## 🤝 Connect With Me  
